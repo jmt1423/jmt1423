@@ -1,6 +1,6 @@
 ## Hi, I’m @jmt1423!
 
-I am a current PhD candidate in spatial statistics. My current research area is time series analysis of beach morphodynamics and predicting long-term beach erosion.
+I am a current PhD candidate in spatial statistics. My current research area is in time series analysis of beach morphodynamics and building models to predict long-term beach erosion.
 
 My current areas of interest are:
   1. Spatial Modelling

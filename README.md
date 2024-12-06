@@ -1,6 +1,6 @@
 ## Hi, I’m @jmt1423!
 
-Freelance developer and data scientist
+Software Developer and Machine Learning Engineer
 
 Areas of Expertise:
   1. Machine Learning and Computer Vision

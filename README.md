@@ -2,6 +2,7 @@
 
 Software Developer and Machine Learning Engineer
 
-Areas of Expertise:
+Interests:
   1. Machine Learning and Computer Vision
-  2. Web Development
+  2. Full Stack Development
+  3. Fighting with rust's borrow checker :(

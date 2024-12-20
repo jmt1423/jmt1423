@@ -1,8 +1,5 @@
 ## Hi, I’m @jmt1423!
 
-Software Developer and Machine Learning Engineer
+I am a software developer mainly in full-stack web development, and I also love building and learning about convolutional neural networks!
 
-Interests:
-  1. Machine Learning and Computer Vision
-  2. Full Stack Development
-  3. Fighting with rust's borrow checker :(
+I have worked as a research assistant and PhD student building CNN's for Lancaster University and the UK Centre for Ecology and Hydrology, but have focused more on software engineering for the past year and a half.
